@@ -1,0 +1,5 @@
+rospy
+opencv-python
+numpy
+os-sys
+imutils
